@@ -1,0 +1,14 @@
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\BookManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\BookManagerAPI.AssemblyInfoInputs.cache
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\BookManagerAPI.AssemblyInfo.cs
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\BookManagerAPI.csproj.CoreCompileInputs.cache
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\bin\Debug\net9.0\BookManagerAPI.exe
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\bin\Debug\net9.0\BookManagerAPI.deps.json
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\bin\Debug\net9.0\BookManagerAPI.runtimeconfig.json
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\bin\Debug\net9.0\BookManagerAPI.dll
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\bin\Debug\net9.0\BookManagerAPI.pdb
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\BookManagerAPI.dll
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\refint\BookManagerAPI.dll
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\BookManagerAPI.pdb
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\BookManagerAPI.genruntimeconfig.cache
+c:\Users\hrich\Documents\BookManagerAPI\BookManagerAPI\obj\Debug\net9.0\ref\BookManagerAPI.dll
